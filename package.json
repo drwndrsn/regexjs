@@ -1,6 +1,6 @@
 {
   "name": "regexjs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Custom collection of regular expressions",
   "main": "index.js",
   "scripts": {
